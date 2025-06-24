@@ -34,7 +34,7 @@ Tech Stack:
 
 **👤 Author:** Danish  
 **📛 GitHub:** [@danish158br](https://github.com/danish158br)  
-**🌐 Website:** [danish158br.github.io](https://danish158br.github.io/Mcp-course/)  
+**🌐 Website:** [https://github.com/Danish158br](https://danish158br.github.io/Mcp-course/)  
 **📧 Contact:** Message [Danish on WhatsApp](https://wa.me/923019521031)
 
 ---
