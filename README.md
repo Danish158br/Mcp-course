@@ -6,7 +6,7 @@
 
 ## 🌐 Live Course Page
 
-[View Course in Browser](https://your-website-url.com)
+[View Course in Browser](https://danish158br.github.io/Mcp-course/)
 
 ---
 
@@ -33,8 +33,8 @@ The course is divided into **14 modules**, each explained in simple Roman Urdu c
 ## 🧑‍💻 Developer Info
 
 **👤 Author:** Danish  
-**📛 GitHub:** [@danish158br](https://github.com/danish158br)  
-**🌐 Website:** [https://danish158br.github.io](https://danish158br.github.io)  
+**📛 GitHub:** [@danish158br]([](https://danish158br.github.io/Mcp-course/))  
+**🌐 Website:** [https://danish158br.github.io/Mcp-course/](https://danish158br.github.io/Mcp-course/))  
 **📧 Contact:** Message D /̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿ A N I S H on WhatsApp. https://wa.me/923019521031
 
 ---
